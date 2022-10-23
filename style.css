@@ -13,12 +13,12 @@ h1 {
     text-transform: uppercase;
 }
 
-.buffer{
-	height:14rem;
+.buffer {
+    height: 14rem;
 }
 
 hr {
-    border-color: #f05f04; 
+    border-color: #f05f04;
     border-width: 3px;
     max-width: 65px;
 }
@@ -39,7 +39,6 @@ hr {
 .btn-primary:hover {
     background-color: #ee4b08;
     border-color: #ee4b08;
-    border-width: 4px;
 }
 
 .btn-xl {
